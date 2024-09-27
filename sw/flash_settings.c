@@ -37,7 +37,7 @@ static const Settings defaultSettings = {
         .basePort = 0x220
     },
     .Tandy = {
-        .basePort = 0x2c0
+        .basePort = 0xc0
     },
     .Mouse = {
         .basePort = 0xffff,
